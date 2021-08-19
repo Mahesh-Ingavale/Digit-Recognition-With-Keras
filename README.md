@@ -1,6 +1,6 @@
 # Digit-Recognition-With-Keras 
 Digit Recognition [ Artificial Neural Network ]
- 
+  
  #Part 1
  #Import Requirements
  import tensorflow as tf
