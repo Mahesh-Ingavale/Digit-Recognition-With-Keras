@@ -1,4 +1,4 @@
-# Digit-Recognition-With-Keras  
+# Digit-Recognition-With-Keras   
 Digit Recognition [ Artificial Neural Network ]
   
  #Part 1
